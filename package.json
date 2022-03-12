@@ -1,0 +1,36 @@
+{
+	"name": "honolulu-forest",
+	"displayName": "honolulu forest",
+	"description": "forest like color theme",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Honoluluchampi/HonoluluForest"
+	},
+	"publisher": "Honoluluchampi",
+	"author": {
+		"name": "Honoluluchampi"
+	},
+	"engines": {
+		"vscode": "^1.65.2"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"forest",
+		"honolulu",
+		"Green",
+		"Dark Theme",
+		"Honoluluchampi"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "honolulu forest",
+				"uiTheme": "vs-dark",
+				"path": "./honolulu-forest-color-theme.json"
+			}
+		]
+	}
+}
