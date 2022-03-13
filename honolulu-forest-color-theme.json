@@ -10,8 +10,8 @@
 		"statusBar.background": "#0f1b1b",
 		"activityBar.background": "#0f1b1b",
 		"titleBar.activeBackground": "#0f1b1b",
-		"gitDecoration.modifiedResourceForeground": "#beff93",
-		"gitDecoration.untrackedResourceForeground": "#55dab2"
+		"gitDecoration.modifiedResourceForeground": "#55dab2",
+		"gitDecoration.untrackedResourceForeground": "#beff93"
 	},
 	"tokenColors": [
 		{
@@ -83,7 +83,7 @@
 				"punctuation.definition.directive.cpp"
 			],
 			"settings": {
-				"foreground": "#b98887"
+				"foreground": "#fafc92"
 			}
 		},
 		{
@@ -101,7 +101,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#fafc92",
+				"foreground": "#b98887",
 				"fontStyle": "italic"
 			}
 		},
